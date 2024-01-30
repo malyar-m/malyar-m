@@ -28,5 +28,5 @@ My responsibilities include coding, refactoring, reviewing, creating requirement
 [![PHP Badge](https://img.shields.io/badge/-php-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
 
 ### Useful links
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1VC_NGxr49hyfBr2nLlydJJdFlh2FGcaa/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1njSh40vPE6f9V1MfsQZgYXW3BQ_5zZbx/view?usp=sharing)
 - :email: malyar90@gmail.com
